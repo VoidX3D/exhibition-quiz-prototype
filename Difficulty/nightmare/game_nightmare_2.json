@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is 'dependency injection'?",
+        "answers": ["A design pattern in which an object receives other objects that it depends on", "A way to manage the dependencies of a project", "A method for injecting malicious code into a program", "A technique for optimizing database queries"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the difference between 'process' and 'thread'?",
+        "answers": ["A process is a program in execution, a thread is a lightweight process", "A thread is more secure than a process", "A process can have multiple threads, but a thread cannot have multiple processes", "There is no difference"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'garbage collection' in programming?",
+        "answers": ["A form of automatic memory management", "A way to clean up unused files on a computer", "A method for detecting and removing viruses", "A technique for optimizing the performance of a program"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'B-tree'?",
+        "answers": ["A self-balancing tree data structure that maintains sorted data and allows searches, sequential access, insertions, and deletions in logarithmic time", "A type of binary tree", "A data structure used for storing hierarchical data", "A type of graph"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the 'SOLID' principle in software engineering?",
+        "answers": ["A mnemonic acronym for five design principles intended to make software designs more understandable, flexible, and maintainable", "A set of principles for writing secure code", "A methodology for managing software development projects", "A standard for documenting software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'sharding' in the context of databases?",
+        "answers": ["A type of database partitioning that separates very large databases into smaller, faster, more easily managed parts called data shards", "A technique for encrypting a database", "A method for backing up a database", "A way to query a database"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'quantum computer'?",
+        "answers": ["A computer that makes use of the principles of quantum mechanics, such as superposition and entanglement, to perform calculations", "A very fast supercomputer", "A computer that is resistant to all types of viruses", "A computer that can run forever without any power source"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the 'halting problem'?",
+        "answers": ["The problem of determining, from a description of an arbitrary computer program and an input, whether the program will finish running or continue to run forever", "The problem of finding the shortest path in a graph", "The problem of sorting a list of numbers in the most efficient way", "The problem of finding the prime factors of a large number"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'RAID'?",
+        "answers": ["Redundant Array of Independent Disks, a data storage virtualization technology that combines multiple physical disk drive components into one or more logical units for the purposes of data redundancy, performance improvement, or both", "A type of computer virus", "A method for cooling a computer", "A type of network protocol"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'side-channel attack'?",
+        "answers": ["An attack based on information gained from the implementation of a computer system, rather than weaknesses in the implemented algorithm itself", "An attack that targets the physical hardware of a computer", "An attack that involves tricking a user into revealing their password", "An attack that floods a network with traffic"],
+        "correctAnswer": 0
+    }
+]

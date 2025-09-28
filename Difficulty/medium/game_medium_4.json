@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is a 'CDN'?",
+        "answers": ["A content delivery network, which is a geographically distributed network of proxy servers and their data centers.", "A type of computer virus.", "A hardware component.", "A type of software."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'DevOps'?",
+        "answers": ["A set of practices that combines software development and IT operations.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'agile' software development?",
+        "answers": ["A set of iterative software development methodologies in which requirements and solutions evolve through collaboration between self-organizing cross-functional teams.", "A linear, sequential approach to software development.", "A type of software testing.", "A way to manage software documentation."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'scrum'?",
+        "answers": ["An agile framework for managing knowledge work, with an emphasis on software development.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'kanban'?",
+        "answers": ["A lean method to manage and improve work across human systems.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'git'?",
+        "answers": ["A distributed version-control system for tracking changes in source code during software development.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'repository' in git?",
+        "answers": ["A central location in which data is stored and managed.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'commit' in git?",
+        "answers": ["A snapshot of your repository at a specific point in time.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'branch' in git?",
+        "answers": ["A movable pointer to a commit.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'merge' in git?",
+        "answers": ["The action of integrating changes from one branch into another.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    }
+]

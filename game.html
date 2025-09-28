@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game - Computer Quiz Game</title>
+    <link rel="stylesheet" href="Styles/main.css">
+    <link rel="stylesheet" href="Styles/game.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Poppins:wght@400;600&display=swap">
+</head>
+<body class="full-screen-body game-background">
+    <div id="game-container">
+        <div id="header">
+            <div id="timer-container">
+                <svg id="timer-svg" viewBox="0 0 100 100">
+                    <circle class="timer-bg" cx="50" cy="50" r="45"></circle>
+                    <circle class="timer-fg" cx="50" cy="50" r="45"></circle>
+                </svg>
+                <span id="timer-text">10</span>
+            </div>
+            <div id="score-container">
+                <div id="score-label">SCORE</div>
+                <div id="score">0</div>
+            </div>
+            <div id="player-name-display"></div>
+            <div id="question-counter"></div>
+            <button id="fullscreen-btn" aria-label="Toggle Fullscreen"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3H5a2 2 0 0 0-2 2v3m0 8v3a2 2 0 0 0 2 2h3m8-18h3a2 2 0 0 1 2 2v3m0 8v3a2 2 0 0 1-2 2h-3"/></svg></button>
+        </div>
+        <div id="question-area">
+            <h2 id="question-text"></h2>
+        </div>
+        <div id="answer-grid">
+            <button class="answer-btn" data-choice="0"><img src="Images/Logos/triangle.svg" alt="Triangle"><span></span></button>
+            <button class="answer-btn" data-choice="1"><img src="Images/Logos/circle.svg" alt="Circle"><span></span></button>
+            <button class="answer-btn" data-choice="2"><img src="Images/Logos/rectangle.svg" alt="Rectangle"><span></span></button>
+            <button class="answer-btn" data-choice="3"><img src="Images/Logos/star.svg" alt="Star"><span></span></button>
+        </div>
+        <div id="feedback-indicator"></div>
+        <div id="footer">
+            <button id="quit-btn">Quit</button>
+        </div>
+    </div>
+    <audio id="correct-sound" src="Sounds/correct.mp3" preload="auto"></audio>
+    <audio id="wrong-sound" src="Sounds/wrong.mp3" preload="auto"></audio>
+    <script src="Scripts/game.js"></script>
+    <script src="Scripts/handler.js"></script>
+    <script src="Scripts/utils.js"></script>
+    <script src="Scripts/player-management.js"></script>
+</body>
+</html>

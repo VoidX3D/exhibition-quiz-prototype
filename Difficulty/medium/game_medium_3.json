@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the OSI model?",
+        "answers": ["A conceptual framework that standardizes the functions of a telecommunication or computing system in seven abstraction layers.", "A type of computer hardware", "A programming language", "A network security protocol"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the difference between 'Symmetric' and 'Asymmetric' encryption?",
+        "answers": ["Symmetric encryption uses the same key for both encryption and decryption, while asymmetric encryption uses different keys.", "Asymmetric encryption is faster than symmetric encryption.", "Symmetric encryption is more secure than asymmetric encryption.", "There is no difference."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'hash function'?",
+        "answers": ["A function that can be used to map data of arbitrary size to fixed-size values.", "A function to encrypt data.", "A function to decrypt data.", "A function to compress data."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'salting' in cryptography?",
+        "answers": ["Adding random data to the input of a hash function to guarantee a unique output, even when the inputs are the same.", "A method for encrypting passwords.", "A type of cryptographic attack.", "A way to generate random numbers."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'digital signature'?",
+        "answers": ["A mathematical scheme for verifying the authenticity of digital messages or documents.", "A scanned image of a person's signature.", "A type of password.", "A way to lock a file."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'firewall'?",
+        "answers": ["A network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.", "A type of computer virus.", "A hardware component for cooling the computer.", "A software for cleaning the computer."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'proxy server'?",
+        "answers": ["A server that acts as an intermediary for requests from clients seeking resources from other servers.", "A server that hosts websites.", "A server that stores emails.", "A server that manages a database."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'VPN'?",
+        "answers": ["A virtual private network, which extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.", "A type of computer virus.", "A hardware component.", "A type of software."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'load balancing'?",
+        "answers": ["Distributing network traffic or computational workloads across multiple servers to ensure no single server becomes overwhelmed.", "A method for increasing the speed of a single server.", "A security measure to protect a server from attacks.", "A way to back up a server."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'caching'?",
+        "answers": ["Storing copies of files or data in a temporary storage location so that they can be accessed more quickly.", "A method for encrypting data.", "A way to compress data.", "A technique for cleaning data."],
+        "correctAnswer": 0
+    }
+]

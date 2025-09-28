@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is a 'worm'?",
+        "answers": ["A standalone malware computer program that replicates itself in order to spread to other computers.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'social engineering'?",
+        "answers": ["The psychological manipulation of people into performing actions or divulging confidential information.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'spear phishing'?",
+        "answers": ["An email or electronic communications scam targeted towards a specific individual, organization or business.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'whaling'?",
+        "answers": ["A specific type of phishing attack that targets high-profile employees, such as the CEO or CFO, in order to steal sensitive information from a company.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'vishing'?",
+        "answers": ["The fraudulent practice of making phone calls or leaving voice messages purporting to be from reputable companies in order to induce individuals to reveal personal information, such as bank details and credit card numbers.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'smishing'?",
+        "answers": ["The fraudulent practice of sending text messages purporting to be from reputable companies in order to induce individuals to reveal personal information, such as passwords or credit card numbers.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'tailgating'?",
+        "answers": ["A physical security breach in which an unauthorized person follows an authorized individual to enter a restricted area.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'dumpster diving'?",
+        "answers": ["The practice of sifting through commercial or residential waste to find items that have been discarded by their owners, but that may prove useful to the picker.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'baiting'?",
+        "answers": ["A social engineering attack where the attacker leaves a malware-infected physical device, such as a USB flash drive, in a location where it is likely to be found.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'pretexting'?",
+        "answers": ["A form of social engineering in which an individual lies to obtain privileged data.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    }
+]

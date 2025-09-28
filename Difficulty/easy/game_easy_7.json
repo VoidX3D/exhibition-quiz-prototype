@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is a 'web page'?",
+        "answers": ["A document on the World Wide Web, consisting of HTML and other media", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'search bar'?",
+        "answers": ["A place to type in keywords to search for information", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'tab' in a web browser?",
+        "answers": ["A way to have multiple web pages open in the same window", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'bookmark' in a web browser?",
+        "answers": ["A way to save the address of a website for easy access later", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'history' in a web browser?",
+        "answers": ["A list of the websites you have visited recently", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'refresh' or 'reload' button?",
+        "answers": ["A button to load the latest version of a web page", "A button to close a web page", "A button to go back to the previous page", "A button to go forward to the next page"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'home page'?",
+        "answers": ["The main page of a website", "The first page you see when you open a web browser", "A page with your personal information", "A page with a list of your favorite websites"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'back' button in a web browser?",
+        "answers": ["A button to go to the previous web page", "A button to go to the next web page", "A button to reload the current page", "A button to close the browser"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'forward' button in a web browser?",
+        "answers": ["A button to go to the next web page", "A button to go to the previous web page", "A button to reload the current page", "A button to close the browser"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'zoom' function?",
+        "answers": ["A function to make the content of a page appear larger or smaller", "A function to search for text on a page", "A function to print a page", "A function to save a page"],
+        "correctAnswer": 0
+    }
+]

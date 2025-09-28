@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the time complexity of a binary search algorithm?",
+        "answers": ["O(n)", "O(log n)", "O(n^2)", "O(1)"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a 'deadlock' in operating systems?",
+        "answers": ["A situation where a process is waiting for an event that will never occur", "A situation where two or more processes are blocked forever, waiting for each other", "A process that has finished its execution but still has an entry in the process table", "A process that is not responding to any signals"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the purpose of the 'finally' block in a try-catch-finally statement?",
+        "answers": ["To catch exceptions", "To execute code only if an exception occurs", "To execute code regardless of whether an exception is thrown or not", "To handle errors"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is 'polymorphism' in object-oriented programming?",
+        "answers": ["The ability of an object to take on many forms", "The process of hiding the implementation details of an object", "The process of creating a new class from an existing class", "The process of bundling data and methods together"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the difference between 'TCP' and 'UDP'?",
+        "answers": ["TCP is faster than UDP", "TCP is connectionless, UDP is connection-oriented", "TCP is reliable and connection-oriented, UDP is unreliable and connectionless", "There is no difference"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a 'segmentation fault'?",
+        "answers": ["A fault that occurs when a program tries to access a memory location that it is not allowed to access", "A fault that occurs when a program divides a number by zero", "A fault that occurs when a program runs out of memory", "A fault that occurs when a program is not responding"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the 'CAP theorem' in distributed systems?",
+        "answers": ["A theorem that states that it is impossible for a distributed data store to simultaneously provide more than two out of three of the following guarantees: Consistency, Availability, and Partition tolerance", "A theorem about the maximum speed of data transfer in a network", "A theorem about the security of a distributed system", "A theorem about the efficiency of a distributed algorithm"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'Big O notation' used for?",
+        "answers": ["To describe the performance or complexity of an algorithm", "To measure the size of a program", "To define the syntax of a programming language", "To design the architecture of a system"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'race condition'?",
+        "answers": ["A situation where the behavior of a system depends on the sequence or timing of uncontrollable events", "A type of computer virus", "A method for optimizing a program", "A security vulnerability"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the purpose of a 'mutex' in concurrent programming?",
+        "answers": ["To protect shared resources from being accessed by multiple threads at the same time", "To create new threads", "To terminate threads", "To synchronize the execution of threads"],
+        "correctAnswer": 0
+    }
+]

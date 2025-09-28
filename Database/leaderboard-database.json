@@ -1,0 +1,4 @@
+{
+    "description": "Stores the leaderboard high scores. In this offline version, it is managed via localStorage and this file is a representation of a persistent database.",
+    "highScores": []
+}

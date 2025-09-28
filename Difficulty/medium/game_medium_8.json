@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is 'unit testing'?",
+        "answers": ["A software testing method by which individual units of source code are tested to determine whether they are fit for use.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'integration testing'?",
+        "answers": ["A software testing method in which individual software modules are combined and tested as a group.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'end-to-end testing'?",
+        "answers": ["A software testing method that involves testing an application's workflow from beginning to end.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'regression testing'?",
+        "answers": ["A type of software testing which verifies that software which was previously developed and tested still performs correctly after it was changed or interfaced with other software.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'alpha testing'?",
+        "answers": ["A type of acceptance testing; performed to identify all possible issues/bugs before releasing the product to everyday users or the public.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'beta testing'?",
+        "answers": ["A type of acceptance testing; performed by real users of the software application in a real environment.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'A/B testing'?",
+        "answers": ["A randomized experiment with two variants, A and B.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'code coverage'?",
+        "answers": ["A measure used to describe the degree to which the source code of a program is executed when a particular test suite is run.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'linter'?",
+        "answers": ["A tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'code formatter'?",
+        "answers": ["A tool that automatically formats source code to conform to a specific style guide.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    }
+]

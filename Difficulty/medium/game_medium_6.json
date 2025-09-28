@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is a 'key-value store'?",
+        "answers": ["A type of NoSQL database that uses a simple key-value method to store data.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'JSON'?",
+        "answers": ["JavaScript Object Notation, a lightweight data-interchange format.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'XML'?",
+        "answers": ["Extensible Markup Language, a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'YAML'?",
+        "answers": ["YAML Ain't Markup Language, a human-readable data-serialization language.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'REST API'?",
+        "answers": ["A representational state transfer application programming interface, which is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'GraphQL'?",
+        "answers": ["A query language for APIs and a runtime for fulfilling those queries with your existing data.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'SOAP'?",
+        "answers": ["Simple Object Access Protocol, a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'webhook'?",
+        "answers": ["A method of augmenting or altering the behavior of a web page or web application with custom callbacks.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'OAuth'?",
+        "answers": ["An open standard for access delegation, commonly used as a way for Internet users to grant websites or applications access to their information on other websites but without giving them the passwords.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'JWT'?",
+        "answers": ["JSON Web Token, an open standard that defines a compact and self-contained way for securely transmitting information between parties as a JSON object.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    }
+]

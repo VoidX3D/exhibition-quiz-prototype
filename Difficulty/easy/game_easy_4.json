@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is a 'password'?",
+        "answers": ["A secret word or phrase used to gain access to a computer or a website", "A type of username", "A public information", "A type of computer hardware"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the purpose of a 'copy and paste' command?",
+        "answers": ["To delete a file", "To duplicate text or a file", "To create a new folder", "To shut down the computer"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a 'file' on a computer?",
+        "answers": ["A collection of data stored in one unit, identified by a filename", "A hardware component", "A type of software", "A container for storing folders"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the purpose of a 'webcam'?",
+        "answers": ["To play music", "To capture video and images", "To print documents", "To connect to the internet"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a 'desktop' on a computer?",
+        "answers": ["The main screen area that you see after you turn on your computer", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the purpose of a 'speaker'?",
+        "answers": ["To display images", "To produce sound", "To type text", "To move the cursor"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a 'laptop'?",
+        "answers": ["A portable computer", "A type of computer mouse", "A large computer for many users", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the purpose of a 'keyboard'?",
+        "answers": ["To display images", "To input text and commands", "To play music", "To connect to the internet"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a 'monitor'?",
+        "answers": ["A screen that displays information from a computer", "A type of computer game", "A hardware component for processing data", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the purpose of a 'mouse'?",
+        "answers": ["To type text", "To move a cursor on a computer screen", "To play music", "To print documents"],
+        "correctAnswer": 1
+    }
+]

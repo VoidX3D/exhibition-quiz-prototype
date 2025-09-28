@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is a 'cipher'?",
+        "answers": ["An algorithm for performing encryption or decryption.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'plaintext'?",
+        "answers": ["Unencrypted information.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'ciphertext'?",
+        "answers": ["Encrypted information.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'key' in cryptography?",
+        "answers": ["A piece of information that determines the functional output of a cryptographic algorithm.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'brute-force attack'?",
+        "answers": ["A trial-and-error method used to obtain information such as a user password or personal identification number (PIN).", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'dictionary attack'?",
+        "answers": ["A method of breaking into a password-protected computer or server by systematically entering every word in a dictionary as a password.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'rainbow table'?",
+        "answers": ["A precomputed table for reversing cryptographic hash functions, usually for cracking password hashes.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'salting'?",
+        "answers": ["Adding random data to the input of a hash function to guarantee a unique output, even when the inputs are the same.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'public key infrastructure' (PKI)?",
+        "answers": ["A set of roles, policies, hardware, software and procedures needed to create, manage, distribute, use, store and revoke digital certificates and manage public-key encryption.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'digital certificate'?",
+        "answers": ["An electronic document used to prove the ownership of a public key.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    }
+]

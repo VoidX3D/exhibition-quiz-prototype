@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Result - Computer Quiz Game</title>
+    <link rel="stylesheet" href="Styles/main.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Poppins:wght@400;600&display=swap">
+</head>
+<body class="full-screen-body result-background">
+    <div id="confetti-container"></div>
+    <div class="result-container">
+        <h1 class="result-title">Quiz Complete!</h1>
+        <div class="result-details">
+            <p>Your Score:</p>
+            <h2 id="final-score">0</h2>
+            <p id="questions-info">Questions Attempted: <span id="questions-attempted">0</span>/<span id="total-questions">0</span></p>
+        </div>
+        <div class="result-navigation">
+            <a href="#" id="play-again-btn" class="nav-btn">Play Again</a>
+            <a href="home.html" class="nav-btn">Main Menu</a>
+        </div>
+    </div>
+    <audio id="result-sound" src="Sounds/result.mp3" preload="auto"></audio>
+    <audio id="confetti-sound" src="Sounds/confetti.mp3" preload="auto"></audio>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+    <script src="Scripts/main.js"></script>
+    <script src="Scripts/leaderboard.js"></script>
+</body>
+</html>

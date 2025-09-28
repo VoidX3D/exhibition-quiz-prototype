@@ -1,0 +1,15 @@
+/* Difficulty-based Backgrounds */
+
+body.game-background.easy {
+    background-image: url('../Images/Backgrounds/easy.png');
+}
+
+body.game-background.medium {
+    background-image: url('../Images/Backgrounds/medium.png');
+}
+
+body.game-background.nightmare {
+    background-image: url('../Images/Backgrounds/nightmare.png');
+}
+
+/* You can add more theme-specific styles here if needed */

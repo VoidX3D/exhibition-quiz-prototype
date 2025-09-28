@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the difference between HTTP and HTTPS?",
+        "answers": ["HTTPS is faster", "HTTPS is for static sites only", "HTTPS is secure", "There is no difference"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is an IP address?",
+        "answers": ["A physical address of a computer", "A unique number assigned to a device on a network", "A type of computer hardware", "A programming language"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the role of a DNS server?",
+        "answers": ["To store website files", "To translate domain names to IP addresses", "To secure a network", "To create dynamic web pages"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is open-source software?",
+        "answers": ["Software that is free to use", "Software with source code that is available to the public", "Software that is still in development", "Software that does not have a graphical user interface"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a 'kernel' in an operating system?",
+        "answers": ["The user interface", "The core component of the OS", "A type of system utility", "A security feature"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the purpose of a 'compiler'?",
+        "answers": ["To run a program", "To write code", "To translate source code into machine code", "To debug a program"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a 'packet' in networking?",
+        "answers": ["A type of network cable", "A small unit of data sent over a network", "A network security protocol", "A type of network server"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the function of a GPU?",
+        "answers": ["To perform general calculations", "To render graphics and images", "To store data", "To manage network connections"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is 'virtualization'?",
+        "answers": ["Creating a virtual version of something, like a server or an OS", "A type of programming paradigm", "A method for securing data", "A way to design user interfaces"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the difference between a 'virus' and a 'worm'?",
+        "answers": ["A virus requires a host program, a worm can self-replicate", "A worm is more dangerous than a virus", "A virus can steal data, a worm cannot", "There is no difference"],
+        "correctAnswer": 0
+    }
+]

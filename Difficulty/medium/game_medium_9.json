@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is a 'framework' in programming?",
+        "answers": ["A reusable set of libraries or classes for a particular platform or application.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'library' in programming?",
+        "answers": ["A collection of pre-written code that can be used to perform common tasks.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'package manager'?",
+        "answers": ["A tool that automates the process of installing, upgrading, configuring, and removing computer programs for a computer's operating system in a consistent manner.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'npm'?",
+        "answers": ["Node Package Manager, a package manager for the JavaScript programming language.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'pip'?",
+        "answers": ["Pip Installs Packages, a package manager for Python.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'Maven'?",
+        "answers": ["A build automation tool used primarily for Java projects.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'Gradle'?",
+        "answers": ["A build automation tool for multi-language software development.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'build tool'?",
+        "answers": ["A tool that automates the process of compiling source code into executable code.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'transpiler'?",
+        "answers": ["A tool that reads source code written in one programming language, and produces the equivalent code in another language.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'Babel'?",
+        "answers": ["A popular transpiler for JavaScript.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    }
+]

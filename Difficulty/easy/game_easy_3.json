@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the main component of a computer that connects all other components?",
+        "answers": ["CPU", "RAM", "Motherboard", "Hard Drive"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of these is a type of computer mouse?",
+        "answers": ["Optical", "Mechanical", "Laser", "All of the above"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What does 'Wi-Fi' stand for?",
+        "answers": ["Wireless Fidelity", "Wireless Internet For All", "Wide Fidelity", "Wireless Functionality"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the purpose of an antivirus software?",
+        "answers": ["To clean the computer from dust", "To protect the computer from viruses and malware", "To make the computer run faster", "To update the operating system"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of these is a social media platform?",
+        "answers": ["Google", "Facebook", "Microsoft Office", "Adobe Photoshop"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a 'screenshot'?",
+        "answers": ["A picture of the computer screen", "A type of computer virus", "A way to lock the computer", "A hardware component"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the function of the 'delete' key on a keyboard?",
+        "answers": ["To type numbers", "To remove text or files", "To open the start menu", "To refresh a page"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a 'folder' on a computer?",
+        "answers": ["A container for storing files", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the purpose of a 'search engine' like Google?",
+        "answers": ["To send emails", "To find information on the internet", "To play games", "To write documents"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a 'username'?",
+        "answers": ["A name that identifies a user on a computer or a website", "The real name of a person", "A type of password", "A secret code"],
+        "correctAnswer": 0
+    }
+]

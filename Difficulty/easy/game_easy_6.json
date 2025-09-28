@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is a 'menu' in a computer program?",
+        "answers": ["A list of commands or options", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the purpose of a 'save' command?",
+        "answers": ["To store your work for future use", "To delete your work", "To print your work", "To close your work"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'font'?",
+        "answers": ["A style of text", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the purpose of a 'print' command?",
+        "answers": ["To create a hard copy of a document", "To save a document", "To delete a document", "To close a document"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'software update'?",
+        "answers": ["A new version of a software that includes improvements or bug fixes", "A type of computer virus", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'hardware'?",
+        "answers": ["The physical parts of a computer", "The programs and applications on a computer", "A type of computer game", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'software'?",
+        "answers": ["The programs and applications on a computer", "The physical parts of a computer", "A type of computer game", "A type of hardware"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'network'?",
+        "answers": ["A group of connected computers that can share resources and data", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the 'internet'?",
+        "answers": ["A global network of computers", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'website'?",
+        "answers": ["A collection of web pages under a single domain name", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is a 'distributed denial-of-service' (DDoS) attack?",
+        "answers": ["A DoS attack in which the attack traffic originates from many different sources.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'zero-day' vulnerability?",
+        "answers": ["A vulnerability that is unknown to those who should be interested in mitigating it, including the vendor of the target software.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'rootkit'?",
+        "answers": ["A collection of computer software, typically malicious, designed to enable access to a computer or an area of its software that is not otherwise allowed and often masks its existence or the existence of other software.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'keylogger'?",
+        "answers": ["A type of surveillance software that has the capability to record every keystroke you make to a log file, usually encrypted.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'ransomware'?",
+        "answers": ["A type of malicious software from cryptovirology that threatens to publish the victim's data or perpetually block access to it unless a ransom is paid.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'spyware'?",
+        "answers": ["Software that aims to gather information about a person or organization without their knowledge and that may send such information to another entity without the consumer's consent, or that asserts control over a computer without the consumer's knowledge.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'adware'?",
+        "answers": ["Software that generates revenue for its developer by automatically generating online advertisements in the user interface of the software or on a screen presented to the user during the installation process.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'botnet'?",
+        "answers": ["A number of Internet-connected devices, each of which is running one or more bots.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'Trojan horse'?",
+        "answers": ["A type of malicious code or software that looks legitimate but can take control of your computer.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'virus'?",
+        "answers": ["A type of computer program that, when executed, replicates itself by modifying other computer programs and inserting its own code.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    }
+]

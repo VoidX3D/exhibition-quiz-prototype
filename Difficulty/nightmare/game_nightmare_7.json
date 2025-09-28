@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the 'MITRE ATT&CK' framework?",
+        "answers": ["A curated knowledge base and model for cyber adversary behavior, reflecting the various phases of an adversary's lifecycle and the platforms they are known to target.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'threat intelligence'?",
+        "answers": ["Information that a company uses to understand the threats that have, will, or are currently targeting the organization.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'sandboxing'?",
+        "answers": ["A security mechanism for separating running programs, usually in an effort to mitigate system failures and/or software vulnerabilities from spreading.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'fuzzing'?",
+        "answers": ["A software testing technique that involves providing invalid, unexpected, or random data as inputs to a computer program.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'static analysis'?",
+        "answers": ["The analysis of computer software that is performed without actually executing programs.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'dynamic analysis'?",
+        "answers": ["The analysis of computer software that is performed by executing programs on a real or virtual processor.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'reverse engineering'?",
+        "answers": ["The process of deconstructing a man-made object to reveal its designs, architecture, or to extract knowledge from the object.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'obfuscation'?",
+        "answers": ["The deliberate act of creating obfuscated code, i.e., code that is difficult for humans to understand.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'stenography'?",
+        "answers": ["The practice of concealing a file, message, image, or video within another file, message, image, or video.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'cryptography'?",
+        "answers": ["The practice and study of techniques for secure communication in the presence of third parties called adversaries.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is 'phishing'?",
+        "answers": ["A type of fishing sport", "A fraudulent attempt to obtain sensitive information", "A type of computer virus", "A method for cooling a computer"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the purpose of an 'API'?",
+        "answers": ["To create user interfaces", "To allow different software applications to communicate with each other", "To store data in a database", "To design computer hardware"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is 'binary code'?",
+        "answers": ["A code that uses only two symbols, 0 and 1", "A type of programming language", "A method for encrypting data", "A way to compress files"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the difference between 'SSD' and 'HDD'?",
+        "answers": ["SSD is slower than HDD", "SSD has moving parts, HDD does not", "SSD is a newer technology and faster than HDD", "There is no difference"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is 'machine learning'?",
+        "answers": ["A type of computer hardware", "The study of how computers can learn without being explicitly programmed", "A new programming language", "A type of computer game"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a 'cookie' in web browsing?",
+        "answers": ["A small piece of data stored on the user's computer by the web browser", "A type of computer virus", "A feature to block ads", "A way to speed up internet connection"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the 'boot process' of a computer?",
+        "answers": ["The process of shutting down a computer", "The initial set of operations that a computer performs when it is switched on", "The process of installing new software", "The process of connecting to the internet"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is 'encryption'?",
+        "answers": ["The process of converting information or data into a code, especially to prevent unauthorized access", "A way to increase the storage capacity of a device", "A method for cleaning a computer from viruses", "A type of computer hardware"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'router'?",
+        "answers": ["A device that forwards data packets between computer networks", "A type of computer monitor", "A software to create websites", "A tool for writing code"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'overclocking'?",
+        "answers": ["Running a computer component at a higher clock rate than it is designed for", "A method for cooling a computer", "A type of computer virus", "A way to increase the security of a network"],
+        "correctAnswer": 0
+    }
+]

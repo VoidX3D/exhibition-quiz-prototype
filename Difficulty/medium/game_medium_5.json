@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is a 'pull request' in git?",
+        "answers": ["A request to merge a branch into another branch.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'SQL'?",
+        "answers": ["A standard language for storing, manipulating and retrieving data in databases.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'database'?",
+        "answers": ["An organized collection of data, generally stored and accessed electronically from a computer system.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'table' in a database?",
+        "answers": ["A collection of related data held in a table format within a database.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'primary key' in a database?",
+        "answers": ["A key in a relational database that is unique for each record.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'foreign key' in a database?",
+        "answers": ["A key used to link two tables together.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is an 'index' in a database?",
+        "answers": ["A data structure that improves the speed of data retrieval operations on a database table at the cost of additional writes and storage space to maintain the index data structure.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'NoSQL'?",
+        "answers": ["A database that does not use the relational model.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'document-oriented database'?",
+        "answers": ["A type of NoSQL database that stores data in the form of documents.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'graph database'?",
+        "answers": ["A type of NoSQL database that uses graph structures for semantic queries with nodes, edges, and properties to represent and store data.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    }
+]

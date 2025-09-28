@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is a 'memory leak'?",
+        "answers": ["A situation where a program allocates memory but fails to release it when it is no longer needed.", "A type of security vulnerability.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'dangling pointer'?",
+        "answers": ["A pointer that points to a memory location that has been deallocated.", "A pointer that has not been initialized.", "A pointer that points to a null value.", "A pointer that points to an invalid address."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'buffer overflow'?",
+        "answers": ["A situation where a program writes data beyond the boundary of a buffer, overwriting adjacent memory locations.", "A type of security vulnerability.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'stack overflow'?",
+        "answers": ["A situation where a program tries to use more memory space on the call stack than is available.", "A type of security vulnerability.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'heap overflow'?",
+        "answers": ["A type of buffer overflow that occurs in the heap data area.", "A type of security vulnerability.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'integer overflow'?",
+        "answers": ["A situation where an arithmetic operation attempts to create a numeric value that is outside of the range that can be represented with a given number of bits.", "A type of security vulnerability.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'format string vulnerability'?",
+        "answers": ["A type of security vulnerability that occurs when a program uses a format string from a user as part of a formatting function.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'time-of-check-to-time-of-use' (TOCTOU) vulnerability?",
+        "answers": ["A type of software bug caused by a race condition involving the checking of a resource's state before that resource is used.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'man-in-the-middle' (MITM) attack?",
+        "answers": ["An attack where the attacker secretly relays and possibly alters the communication between two parties who believe they are directly communicating with each other.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'denial-of-service' (DoS) attack?",
+        "answers": ["An attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to the Internet.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    }
+]

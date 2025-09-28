@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is 'webpack'?",
+        "answers": ["A module bundler for JavaScript.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'module bundler'?",
+        "answers": ["A tool that takes your JavaScript and CSS code and combines it into a single file.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'tree shaking'?",
+        "answers": ["A term commonly used in the context of JavaScript module bundlers to describe the process of removing unused code.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'hot module replacement' (HMR)?",
+        "answers": ["A feature of module bundlers that allows you to update your code without having to refresh the page.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'code splitting'?",
+        "answers": ["The process of splitting your code into smaller chunks that can be loaded on demand.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'lazy loading'?",
+        "answers": ["The practice of delaying the loading of resources until they are needed.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'preloading'?",
+        "answers": ["The practice of loading resources before they are needed.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'prefetching'?",
+        "answers": ["The practice of fetching resources that will be needed in the near future.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'service worker'?",
+        "answers": ["A script that your browser runs in the background, separate from a web page, opening the door to features that don't need a web page or user interaction.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'progressive web app' (PWA)?",
+        "answers": ["A type of application software delivered through the web, built using common web technologies including HTML, CSS and JavaScript.", "A type of programming language.", "A software development methodology.", "A project management framework."],
+        "correctAnswer": 0
+    }
+]

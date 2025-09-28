@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is 'quid pro quo'?",
+        "answers": ["A social engineering attack in which an attacker offers a service or benefit in exchange for information or access.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'diversion theft'?",
+        "answers": ["A social engineering attack in which an attacker tricks a delivery or courier company into delivering a package to a different address.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'honey pot'?",
+        "answers": ["A computer security mechanism set to detect, deflect, or, in some manner, counteract attempts at unauthorized use of information systems.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is an 'intrusion detection system' (IDS)?",
+        "answers": ["A device or software application that monitors a network or systems for malicious activity or policy violations.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is an 'intrusion prevention system' (IPS)?",
+        "answers": ["A network security/threat prevention technology that examines network traffic flows to detect and prevent vulnerability exploits.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'security information and event management' (SIEM) system?",
+        "answers": ["A set of tools and services that offer a holistic view of an organization's information security.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'penetration testing'?",
+        "answers": ["An authorized simulated cyberattack on a computer system, performed to evaluate the security of the system.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'vulnerability scanning'?",
+        "answers": ["The process of identifying security vulnerabilities in a computer system or network.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'threat modeling'?",
+        "answers": ["A process by which potential threats, such as structural vulnerabilities or the absence of appropriate safeguards, can be identified, enumerated, and prioritized – all from a hypothetical attacker’s point of view.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the 'Cyber Kill Chain'?",
+        "answers": ["A series of steps that trace stages of a cyberattack from the early reconnaissance stages to the exfiltration of data.", "A type of buffer overflow.", "A hardware failure.", "A network error."],
+        "correctAnswer": 0
+    }
+]

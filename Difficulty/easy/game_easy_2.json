@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What does USB stand for?",
+        "answers": ["Universal Serial Bus", "Universal System Bus", "Uniform Serial Bus", "Uniform System Bus"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of these is an output device?",
+        "answers": ["Mouse", "Scanner", "Microphone", "Monitor"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the purpose of a firewall?",
+        "answers": ["To cool the computer", "To block unauthorized access", "To speed up the internet", "To store passwords"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a URL?",
+        "answers": ["A type of programming language", "A web address", "A computer virus", "A hardware component"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of these is an email service provider?",
+        "answers": ["Gmail", "Photoshop", "Excel", "WinRAR"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does HTML stand for?",
+        "answers": ["HyperText Markup Language", "HighText Machine Language", "HyperText and links Markup Language", "None of the above"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the function of a hard drive?",
+        "answers": ["To run programs", "To display images", "For long-term data storage", "To connect to the internet"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is a programming language?",
+        "answers": ["HTTP", "Python", "HTML", "CSS"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is 'malware'?",
+        "answers": ["A type of hardware", "A computer game", "Software that is intended to damage or disable computers", "A type of computer screen"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the cloud in cloud computing?",
+        "answers": ["A type of weather forecast", "A network of servers", "A type of computer storage", "A new operating system"],
+        "correctAnswer": 1
+    }
+]

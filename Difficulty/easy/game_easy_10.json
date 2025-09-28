@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is 'netiquette'?",
+        "answers": ["The correct or acceptable way of communicating on the Internet.", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'troll' in the context of the internet?",
+        "answers": ["A person who starts quarrels or upsets people on the Internet to distract and sow discord by posting inflammatory and digressive, extraneous, or off-topic messages in an online community.", "A type of computer virus", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'meme'?",
+        "answers": ["A humorous image, video, piece of text, etc., that is copied (often with slight variations) and spread rapidly by Internet users.", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'viral video'?",
+        "answers": ["A video that becomes popular through a viral process of Internet sharing, typically through video sharing websites, social media and email.", "A type of computer virus", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'vlog'?",
+        "answers": ["A blog in which the postings are primarily in video form.", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'blog'?",
+        "answers": ["A regularly updated website or web page, typically one run by an individual or small group, that is written in an informal or conversational style.", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'podcast'?",
+        "answers": ["A digital audio file made available on the Internet for downloading to a computer or mobile device, typically available as a series, new installments of which can be received by subscribers automatically.", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'streaming'?",
+        "answers": ["A method of transmitting or receiving data (especially video and audio material) over a computer network as a steady, continuous flow, allowing playback to proceed while subsequent data is being received.", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'webinar'?",
+        "answers": ["A seminar conducted over the Internet.", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is an 'e-commerce'?",
+        "answers": ["Commercial transactions conducted electronically on the Internet.", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    }
+]

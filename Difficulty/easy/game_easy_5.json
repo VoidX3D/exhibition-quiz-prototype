@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is an 'icon' on a computer screen?",
+        "answers": ["A small picture that represents a program, a file, or a folder", "A type of computer virus", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the purpose of a 'browser'?",
+        "answers": ["To access the internet and view websites", "To create documents", "To edit photos", "To play games"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'email'?",
+        "answers": ["A way to send messages and files electronically", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the purpose of a 'trash' or 'recycle bin'?",
+        "answers": ["To permanently delete files", "To temporarily store deleted files", "To create new files", "To store important files"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a 'download'?",
+        "answers": ["To copy a file from the internet to your computer", "To send a file from your computer to the internet", "To delete a file", "To create a new file"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is an 'upload'?",
+        "answers": ["To send a file from your computer to the internet", "To copy a file from the internet to your computer", "To delete a file", "To create a new file"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'link' or 'hyperlink'?",
+        "answers": ["A clickable text or image that takes you to another webpage", "A type of computer virus", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'cursor'?",
+        "answers": ["A blinking line or a pointer on the screen that shows where you are working", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'window' on a computer?",
+        "answers": ["A rectangular area on the screen that displays a program or a file", "A type of computer virus", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the purpose of a 'scroll bar'?",
+        "answers": ["To move the content of a window up, down, left, or right", "To close a window", "To resize a window", "To open a new window"],
+        "correctAnswer": 0
+    }
+]

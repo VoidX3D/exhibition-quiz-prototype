@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What does CPU stand for?",
+        "answers": ["Central Processing Unit", "Computer Personal Unit", "Central Process Unit", "Computer Processing Unit"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following is an input device?",
+        "answers": ["Monitor", "Printer", "Keyboard", "Speaker"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the main function of RAM?",
+        "answers": ["Long-term storage", "Temporary storage", "Processing data", "Displaying graphics"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does 'www' stand for in a website address?",
+        "answers": ["World Wide Web", "Web World Wide", "Wide World Web", "World Web Wide"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of these is a web browser?",
+        "answers": ["Photoshop", "Google Chrome", "Microsoft Word", "Notepad"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the file extension for a picture?",
+        "answers": [".txt", ".mp3", ".jpg", ".docx"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does 'OS' stand for?",
+        "answers": ["Operating System", "Open Source", "Optical Sensor", "Output System"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which company developed the Windows operating system?",
+        "answers": ["Apple", "Google", "Microsoft", "Linux"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a 'bug' in computer terms?",
+        "answers": ["An insect", "A feature", "An error in a program", "A type of virus"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the brain of the computer?",
+        "answers": ["RAM", "CPU", "GPU", "Motherboard"],
+        "correctAnswer": 1
+    }
+]

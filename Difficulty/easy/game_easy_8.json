@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is a 'digital camera'?",
+        "answers": ["A camera that captures photos in digital memory", "A camera that uses film", "A type of printer", "A type of scanner"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'smartphone'?",
+        "answers": ["A mobile phone with advanced features and internet connectivity", "A phone that can only make calls", "A type of camera", "A type of computer"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'tablet'?",
+        "answers": ["A portable computer with a touchscreen", "A type of smartphone", "A type of laptop", "A type of desktop computer"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is an 'e-reader'?",
+        "answers": ["A device for reading electronic books", "A type of tablet", "A type of smartphone", "A type of laptop"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'scanner'?",
+        "answers": ["A device that converts physical documents into digital format", "A device that prints documents", "A type of camera", "A type of computer"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'printer'?",
+        "answers": ["A device that produces a hard copy of a document", "A device that scans documents", "A type of camera", "A type of computer"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'projector'?",
+        "answers": ["A device that projects an image onto a screen", "A type of monitor", "A type of camera", "A type of computer"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'headphone'?",
+        "answers": ["A device for listening to audio privately", "A type of microphone", "A type of speaker", "A type of camera"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'microphone'?",
+        "answers": ["A device for recording audio", "A type of headphone", "A type of speaker", "A type of camera"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'keyboard shortcut'?",
+        "answers": ["A combination of keys that perform a specific task", "A type of password", "A way to lock the keyboard", "A way to clean the keyboard"],
+        "correctAnswer": 0
+    }
+]

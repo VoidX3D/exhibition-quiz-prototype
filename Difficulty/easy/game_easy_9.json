@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is 'copyleft'?",
+        "answers": ["A play on the word copyright, and is the practice of offering people the right to freely distribute copies and modified versions of a work with the stipulation that the same rights be preserved in derivative works down the line.", "A type of computer virus", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'Creative Commons'?",
+        "answers": ["A set of public copyright licenses that enable the free distribution of an otherwise copyrighted work.", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'public domain'?",
+        "answers": ["The state of belonging or being available to the public as a whole, and therefore not subject to copyright.", "A type of computer virus", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'fair use'?",
+        "answers": ["A legal doctrine that promotes freedom of expression by permitting the unlicensed use of copyright-protected works in certain circumstances.", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'patent'?",
+        "answers": ["A government authority or license conferring a right or title for a set period, especially the sole right to exclude others from making, using, or selling an invention.", "A type of computer virus", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'trademark'?",
+        "answers": ["A symbol, word, or words legally registered or established by use as representing a company or product.", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'copyright'?",
+        "answers": ["The exclusive legal right, given to an originator or an assignee to print, publish, perform, film, or record literary, artistic, or musical material, and to authorize others to do the same.", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'intellectual property'?",
+        "answers": ["A work or invention that is the result of creativity, such as a manuscript or a design, to which one has rights and for which one may apply for a patent, copyright, trademark, etc.", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a 'digital footprint'?",
+        "answers": ["The trail of data you leave behind when you use the internet.", "A type of computer virus", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is 'cyberbullying'?",
+        "answers": ["The use of electronic communication to bully a person, typically by sending messages of an intimidating or threatening nature.", "A type of computer game", "A hardware component", "A type of software"],
+        "correctAnswer": 0
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "description": "Master database for the quiz game. It contains references to all quiz files.",
+    "quizzes": {
+        "easy": [
+            "Difficulty/easy/game_easy_1.json",
+            "Difficulty/easy/game_easy_2.json"
+        ],
+        "medium": [
+            "Difficulty/medium/game_medium_1.json",
+            "Difficulty/medium/game_medium_2.json"
+        ],
+        "nightmare": [
+            "Difficulty/nightmare/game_nightmare_1.json",
+            "Difficulty/nightmare/game_nightmare_2.json"
+        ]
+    }
+}
